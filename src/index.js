@@ -10,7 +10,7 @@ import Project4 from './Project4';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <Router>
+  <Router basename="/ragav-web">
     <Routes>
       <Route path="/" element={<App />} />
       <Route path="/project/1" element={<Project1 />} />
