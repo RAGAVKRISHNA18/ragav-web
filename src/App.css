@@ -913,7 +913,7 @@ width: 330px;
 
 
 
-@media (min-width: 380px) and (max-width: 520px) {
+@media (min-width: 300px) and (max-width: 520px) {
     .heading1 {
         color: #000;
         font-family: "PP Neue Montreal";
