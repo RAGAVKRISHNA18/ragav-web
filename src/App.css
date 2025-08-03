@@ -1419,13 +1419,12 @@ margin-left: -26%;
         display: none;
     }
     .tape-img {
-        object-fit: cover;
-        position: relative;
-        top: 183px;
-        width: 90vw;
-        margin-bottom: 100px;
-        height: max-content !important;
-    }
+    width: 90vw;
+    height: max-content;
+    object-fit: cover;
+    position: relative;
+    top: 97px;
+}
 .frame1{
     display: flex;
     height: max-content;
@@ -1506,13 +1505,14 @@ margin-left: -26%;
         scale: 0.9;
         justify-content: center;
     }
-          .tape-img {
-    width: 55vw;
-    height: max-content;
-    object-fit: cover;
-    position: relative;
-    top: 97px;
-}
+    .tape-img {
+        object-fit: cover;
+        position: relative;
+        top: 183px;
+        width: 90vw;
+        margin-bottom: 100px;
+        height: max-content;
+    }
     .map {
         width: 300px;
         height: 180px;
