@@ -1,0 +1,178 @@
+
+.projectwholecontainer{
+    background-color: #0E4348;
+    width: 100%;
+     margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+.projectframe1{
+    width: 100%;
+    height: 1850px;
+}
+.projectframe2{
+    width: 100%;
+    height: 1140px;
+    background-color: #f2f2f2;
+}
+.projectframe3{
+    width: 100%;
+    height: max-content;
+    background-color: #0E4348;
+    padding-bottom: 200px !important;
+    margin-top: -80px;
+}
+.project1-title {
+    color: #ADFFB8;
+    font-family: "PP Right Grotesk";
+    font-size: 21vw;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: uppercase;
+    position: relative;
+    margin-left: 3% !important;
+    top: 30px;
+    margin: 0;
+}
+.project1-para1 {
+    color: #ADFFB8;
+    font-family: "PP Neue Montreal";
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: fit-content;
+    position: relative;
+    left: 4% !important;
+    top: 30px;
+    padding-bottom: 76px !important;
+}
+.project1-title4{
+  color: #ADFFB8;
+    font-family: "PP Neue Montreal";
+    font-size: 77px;
+    font-style: normal;
+    font-weight: 100;
+    line-height: normal;
+    width: max-content;
+    position: relative;
+    left: 10% !important;
+    top: 84px;
+    padding-bottom: 76px !important;
+}
+.project1-para2 {
+    color: #ADFFB8;
+    font-family: "PP Neue Montreal";
+    font-size: 23px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: fit-content;
+    position: relative;
+    left: 0%;
+    top: -36px;
+    padding: 6%;
+}
+
+.sep-project-tech {
+    display: flex
+;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin-top: -1rem !important;
+    position: absolute;
+    margin-left: -30% !important;
+    scale: 0.5;
+    width: max-content;
+}
+.sep-tech-tag {
+    font-family: "PP Supply Mono";
+    color: #ADFFB8;
+    padding: 0.7rem !important;
+    border-radius: 3px;
+    font-size: 1.75rem;
+    font-weight: 500;
+    border: 3px dashed #adffb87a;
+}
+
+.sep-tech-tag:hover {
+    border: 3px solid #ADFFB8;
+        font-weight: 700;
+}
+.project-tech-title{
+    font-family: "PP Neue Montreal";
+    color: #ADFFB8;
+    font-size: 1.75rem;
+    font-weight: 500;
+    position: absolute;
+    margin-top: -44px !important;
+}
+
+.project-bg-1{
+    width: 100%;
+    height: 1000px;
+    position: absolute;
+    margin-top: 12% !important;
+}
+.project-sc-1{
+    width: 80%;
+    z-index: 2;
+    position: absolute;
+    left: 11%;
+    top: 122%;
+}
+.project1-para3{
+    position: relative;
+    color: #121212;
+    font-family: "PP Neue Montreal";
+    font-size: 24px;
+    font-style: normal;
+    font-weight: LIGHTER;
+    line-height: NORMAL;
+    width: 55%;
+    top: 35%;
+    left: 39%;
+}
+.project1-title3{
+    color: #1212129c;
+    font-family: "PP Supply Mono";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    width: max-content;
+    position: relative;
+    top: 34%;
+    left: 39%;
+}
+
+.image-gallery {
+  display: flex;
+  overflow-x: auto;
+  gap: 12px;
+  padding: 10px 0;
+  scrollbar-width: thin;
+  height: 650px;
+}
+
+.gallery-image {
+  height: 600px;
+  flex-shrink: 0;
+  border-radius: 10px;
+  object-fit: cover;
+}
+.project1-para5{
+    color: #ADFFB8;
+    font-family: "PP Neue Montreal";
+    font-size: 27px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: max-content;
+    margin-left: 28%;
+}
+.project1-para5 span{
+    margin-left: 30px;
+    font-family: "PP Supply Mono";
+}
