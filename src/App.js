@@ -1,4 +1,4 @@
-import './App.css';
+import './App.css?v=5';
 import gsap from "gsap";
 import ScrollTrigger from "gsap/ScrollTrigger";
 import React, { useEffect, useRef } from "react";
@@ -12,23 +12,7 @@ import Slideshow2 from './Slideshow2';
 
 function App() {
 
-
-
-// useEffect(() => {
-//   const tl = gsap.timeline();
-
-//   tl.to('.navbar a', {
-//     color: "#000",
-//     duration: 3,
-//     ease: 'power2.inOut',
-//   })
-//   .to('.navbar a', {
-//      color: "#FFF",
-//      delay: 4,
-//     duration: 2,
-//     ease: 'power2.inOut',
-//   });
-// }, []);
+console.log("Trigger deploy v5");
 
 
   useEffect(() => {
