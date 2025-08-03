@@ -1424,7 +1424,7 @@ margin-left: -26%;
         top: 183px;
         width: 90vw;
         margin-bottom: 100px;
-        height: max-content;
+        height: max-content !important;
 }
 .frame1{
     display: flex;
