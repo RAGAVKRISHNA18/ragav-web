@@ -1424,6 +1424,8 @@ margin-left: -26%;
     object-fit: cover;
     position: relative;
     top: 97px;
+    margin-bottom: 100px;
+    height: max-content !important;
 }
 .frame1{
     display: flex;
@@ -1505,14 +1507,13 @@ margin-left: -26%;
         scale: 0.9;
         justify-content: center;
     }
-    .tape-img {
-        object-fit: cover;
-        position: relative;
-        top: 183px;
-        width: 90vw;
-        margin-bottom: 100px;
-        height: max-content;
-    }
+          .tape-img {
+    width: 55vw;
+    height: max-content;
+    object-fit: cover;
+    position: relative;
+    top: 97px;
+}
     .map {
         width: 300px;
         height: 180px;
