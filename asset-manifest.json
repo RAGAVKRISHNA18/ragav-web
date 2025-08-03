@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/ragav-web/static/css/main.433b9cda.css",
+    "main.css": "/ragav-web/static/css/main.b1bde18d.css",
     "main.js": "/ragav-web/static/js/main.2d48d964.js",
     "index.html": "/ragav-web/index.html",
-    "main.433b9cda.css.map": "/ragav-web/static/css/main.433b9cda.css.map",
+    "main.b1bde18d.css.map": "/ragav-web/static/css/main.b1bde18d.css.map",
     "main.2d48d964.js.map": "/ragav-web/static/js/main.2d48d964.js.map"
   },
   "entrypoints": [
-    "static/css/main.433b9cda.css",
+    "static/css/main.b1bde18d.css",
     "static/js/main.2d48d964.js"
   ]
 }
