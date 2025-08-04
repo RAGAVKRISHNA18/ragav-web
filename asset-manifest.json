@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/ragav-web/static/css/main.96f4e02f.css",
+    "main.css": "/ragav-web/static/css/main.6a624ebe.css",
     "main.js": "/ragav-web/static/js/main.56d6bb16.js",
-    "static/media/Supply-Light.otf": "/ragav-web/static/media/Supply-Light.285bfbfa2bac2e32d9e6.otf",
+    "static/media/PPSupplyMono-Light.otf": "/ragav-web/static/media/PPSupplyMono-Light.07636ac7029428e7d352.otf",
     "index.html": "/ragav-web/index.html",
-    "main.96f4e02f.css.map": "/ragav-web/static/css/main.96f4e02f.css.map",
+    "main.6a624ebe.css.map": "/ragav-web/static/css/main.6a624ebe.css.map",
     "main.56d6bb16.js.map": "/ragav-web/static/js/main.56d6bb16.js.map"
   },
   "entrypoints": [
-    "static/css/main.96f4e02f.css",
+    "static/css/main.6a624ebe.css",
     "static/js/main.56d6bb16.js"
   ]
 }
