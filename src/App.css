@@ -1,23 +1,19 @@
 @font-face {
   font-family: 'PP Supply Mono';
-  src: url('/PPSupplyMono-Light.otf') format('opentype');
-  font-weight: 300;
-  font-style: normal;
+  src: url('/public/fonts/PPSupplyMono-Light.woff2') fformat('woff2');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Helvetica Neue';
+    src: url('/public/fonts/HelveticaNeue.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
 }
 
-@font-face {
-  font-family: 'Helvetica Neue';
-  src: url('/helveticaneue.otf') format('opentype');
-  font-weight: 300;
-  font-style: normal;
-}
 
-@font-face {
-  font-family: 'PP Neue Montreal';
-  src: url('/PPNeueMontreal-Regular.otf') format('opentype');
-  font-weight: 300;
-  font-style: normal;
-}
 
 body{
  background-color: #FFF;
