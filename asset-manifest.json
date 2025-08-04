@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ragav-web/static/css/main.4d03f327.css",
+    "main.css": "/ragav-web/static/css/main.d92a0a56.css",
     "main.js": "/ragav-web/static/js/main.56d6bb16.js",
-    "static/media/helveticaneue.otf": "/ragav-web/static/media/helveticaneue.4b056caebfb495e6d376.otf",
-    "static/media/PPSupplyMono-Light.otf": "/ragav-web/static/media/PPSupplyMono-Light.07636ac7029428e7d352.otf",
+    "static/media/HelveticaNeue.woff2": "/ragav-web/static/media/HelveticaNeue.fb5b62eee5be6dba4770.woff2",
+    "static/media/PPSupplyMono-Light.woff2": "/ragav-web/static/media/PPSupplyMono-Light.673c24d00a4b421d8b4d.woff2",
     "index.html": "/ragav-web/index.html",
-    "main.4d03f327.css.map": "/ragav-web/static/css/main.4d03f327.css.map",
+    "main.d92a0a56.css.map": "/ragav-web/static/css/main.d92a0a56.css.map",
     "main.56d6bb16.js.map": "/ragav-web/static/js/main.56d6bb16.js.map"
   },
   "entrypoints": [
-    "static/css/main.4d03f327.css",
+    "static/css/main.d92a0a56.css",
     "static/js/main.56d6bb16.js"
   ]
 }
