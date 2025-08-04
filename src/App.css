@@ -1,12 +1,20 @@
 @font-face {
   font-family: 'PP Supply Mono';
-  src: url('fonts/PPSupplyMono-Light.otf') format('opentype');
+  src: url('/PPSupplyMono-Light.otf') format('opentype');
   font-weight: 300;
   font-style: normal;
 }
+
 @font-face {
   font-family: 'Helvetica Neue';
-  src: url('fonts/helveticaneue.otf') format('opentype');
+  src: url('/helveticaneue.otf') format('opentype');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'PP Neue Montreal';
+  src: url('/PPNeueMontreal-Regular.otf') format('opentype');
   font-weight: 300;
   font-style: normal;
 }
